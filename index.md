@@ -1,4 +1,8 @@
-## Cherrie D Cosby<br>
+---
+Cherrie D Cosby
+10/20/2021
+---
+
 
 My experience as a Business Data Analyst has been acquired while consulting in the fields of, Oil and Gas; and Power and Energy, Foodservices, Construction, Manufacturing, Aviation, Regulatory Compliance, and Estate Management.
 
