@@ -2,7 +2,7 @@
 
 My experience as a Business Data Analyst has been acquired while consulting in the fields of, Oil and Gas; and Power and Energy, Foodservices, Construction, Manufacturing, Aviation, Regulatory Compliance, and Estate Management.
 
-I work hard to keep my hands-on skills, and competencies updated with new software, technologies, and stay on top of the industry trends regarding collection, management, and applications. I am proficient in Excel, SQL; for PostgreSQL, MySQL, Oracle, Tableau, Power BI, PowerPoint, Python, GIT.
+I work hard to keep my hands-on skills, and competencies updated with new software, technologies, and stay on top of the industry trends regarding collection, management, and applications. I am proficient in Excel, SQL for PostgreSQL; MySQL; Oracle; and Access, Tableau, Power BI, PowerPoint, Python, GIT.
 
 **Education**<br>
 Thinkful <br>
