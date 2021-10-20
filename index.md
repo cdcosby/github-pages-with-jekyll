@@ -52,4 +52,4 @@ Houston, Texas                                                                  
 • Increased net revenue by $600,000 per unit, in nine months. <br>
 • Implemented computerized purchasing and inventory system to create cost controls program. <br>
 • Instituted document tracking system for facility maintenance, and regulatory compliance. <br>
- 
+ <br>
